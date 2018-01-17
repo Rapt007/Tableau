@@ -7,3 +7,5 @@
 1. There is a Image in this folder pertaining to the map.
 2. There is data file in this folder.
 3. There is Tableau worksheet in this folder.
+---
+![This is the image visualization](Image.png)
