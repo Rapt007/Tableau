@@ -1,6 +1,6 @@
 ﻿# This is a challenge for learning blends, dual - axis and their synchroniztion.
 ---
-![This is for categorizing](dualaxis.png)
+![This is for categorizing](Dualaxis.png)
 ### This is displaying sales for the dates and on the top of it, displaying target for different categories.
 
 ![This is sales for the year and their months](sales_different_categories.png)
